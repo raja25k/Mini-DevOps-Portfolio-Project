@@ -2,6 +2,11 @@
 
 This project demonstrates a complete CI/CD pipeline and DevOps automation workflow using **AWS EC2**, **Terraform**, **Ansible**, **Jenkins**, **GitHub Actions**, and **Shell Scripting** to deploy a sample web application.
 
+![Terraform](https://img.shields.io/badge/Terraform-AWS-blueviolet)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-red)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-yellow)
+
+
 ---
 
 ## 🚀 Tech Stack Used
